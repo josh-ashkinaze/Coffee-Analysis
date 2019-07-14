@@ -10,9 +10,9 @@ To answer these questions, I use exploratory analysis and econometrics modeling.
 
 My findings: 
 
-First, the most important coffee qualities are flavor, aftertaste, and balance. These are the qualities that are most predective of overall coffee rating.
+1. The most important coffee qualities are flavor, aftertaste, and balance. These are the qualities that are most predictive of overall coffee rating.
 
-Second, everyone should try Vietnmanese or Burundi coffee. Coffee from these two countries recieves an overall rating above what its component ratings would predict.
+2. Everyone should try Vietnmanese or Burundi coffee. Coffee from these two countries recieves an overall rating above what its component ratings would predict.
 
 Read more blog for a write-up and look at the ipynb notebook for analysis! 
 
