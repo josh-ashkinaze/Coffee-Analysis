@@ -14,6 +14,6 @@ My findings:
 
 2. Everyone should try Vietnmanese or Burundi coffee. Coffee from these two countries recieves an overall rating above what its component ratings would predict.
 
-Read more blog for a write-up and look at the ipynb notebook for analysis! 
+Read my blog for a write-up and look at the ipynb notebook for analysis! 
 
-https://www.joshash.space/data-science/the-most-important-aspect-of-coffee
+Blog entry: https://www.joshash.space/data-science/the-most-important-aspect-of-coffee
