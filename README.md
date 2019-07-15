@@ -6,7 +6,7 @@ In this analysis, I took a look at 1000+ coffee reviews. I answer two research q
 
 2. Which countries receive overall ratings better than their component ratings would predict?
 
-To answer these questions, I use exploratory analysis and econometrics modeling. 
+To answer these questions, I use exploratory analysis and econometrics. 
 
 My findings: 
 
