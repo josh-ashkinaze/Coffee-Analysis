@@ -20,8 +20,8 @@ Read my blog for a write-up and look at the ipynb notebook for analysis!
 Blog entry: https://www.joshash.space/data-science/the-most-important-aspect-of-coffee
 
 
-
-```         .        .  
+```
+         .        .  
   * _  __|_  _. __|_ 
   |(_)_) [ )(_]_) [ )
 ._|
