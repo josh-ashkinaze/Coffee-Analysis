@@ -1,6 +1,8 @@
-# coffee-analysis
+# Coffee-Analysis
 
-In this analysis, I took a look at 1000+ coffee reviews. I answer two research questions:
+In this analysis, I took a look at 1000+ coffee reviews. 
+
+## My Questions
 
 1. Which aspect of coffee is most important for assigning an overall rating?
 
@@ -8,7 +10,7 @@ In this analysis, I took a look at 1000+ coffee reviews. I answer two research q
 
 To answer these questions, I use exploratory analysis and a heteroskedasticity-robust fixed effect OLS model. 
 
-My findings: 
+## My Findings
 
 1. The most important coffee qualities are flavor, aftertaste, and balance. These are the qualities that are most predictive of overall coffee rating.
 
